@@ -20,14 +20,15 @@ This project demonstrates web scraping using Python, specifically utilizing the 
 
 
 ## Technologies Used  
-- 🐍 **Python**  
-- 🏗 **BeautifulSoup**  
-- 🌐 **Requests**  
+- **Python**  
+- **BeautifulSoup**  -  A Python library used for extracting data from HTML and XML files. It helps in web scraping by parsing web page content easily.  
+- **Requests**  - A simple and efficient HTTP library for sending requests to web pages and retrieving their content for processing.  
+
 
 ## Features  
-✔ Fetches job details such as title, company, location, and job summary from the Fake Jobs website.  
-✔ Extracts relevant sections from Wikipedia’s India page.  
-✔ Processes and structures scraped data for better readability.  
+* Fetches job details such as title, company, location, and job summary from the Fake Jobs website.  
+* Extracts relevant sections from Wikipedia’s India page.  
+* Processes and structures scraped data for better readability.  
 
 ---
 
